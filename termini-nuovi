@@ -24,3 +24,5 @@ values : fa un elenco dei valori del dizzionario
 range() : genera un'intervallo di interi
 break : serrve a chiudere cicli while o if
 continue : serve a chiudere dei cicli
+parametri formali sono i parametri messi
+parametri attuali i parametri usati
