@@ -26,3 +26,15 @@ break : serrve a chiudere cicli while o if
 continue : serve a chiudere dei cicli
 parametri formali sono i parametri messi
 parametri attuali i parametri usati
+
+
+
+
+pandas : Pandas è uno strumento di analisi e manipolazione dei dati open source veloce, potente, flessibile e facile da usare, costruito sulla base del linguaggio di programmazione Python.
+Quando si lavora con dati tabulari o strutturati (come tabelle SQL, fogli Excel, ...):
+
+Importare dati
+Riordinare i dati
+Esplorare i dati, ottienere informazioni dettagliate sui dati
+Elaborare e preparare i tuoi dati per l'analisi
+Analizzare i tuoi dati
