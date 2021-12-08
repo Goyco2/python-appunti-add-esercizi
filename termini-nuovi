@@ -1,35 +1,3 @@
-slicing : meccanismo attraverso il quale recuperiamo una parte della lista in python   ":"
-list comprehention : meccanismo il quale costruiamo una lista scrivamo nelle parentesi quadre le istruzioni per generare i singoli elementi di una lista
-sort() : mette in ordini la lista (non creando una nuova una lista)
-sorted() : crea una copia dell'elenco in ordine
-"reverse = true" : mette al contrario
-{} : apro un dizzionario
-upper() : mettere tutta la stringa in maiuscolo
-lower() :   //     //   //   //    in minuscolo
-center(dis) : centrare la stringa
-ljust(dis) : spostare la stringa  a sinistra
-rjust(dis) : spostare la stringa  a destra
-len() : questa funzione trova lalungezza della stringa
-[ : ] : itervallo tra caratteri
-min() : numero piu basso della lista
-max() : numero piu grande della lista
-key = :funzione per generare il valora su cui usare l'ordine
-append() : agiungge una elemento alla fine della lista
-count() : conta quante volte un elemento ce in una lista
-index() : cerca l'elemento che c'è in quella posizione
-insert(x,y) : "x" posizone dove agiunggere l'elemento, "y" elemento
-insert(x,y) : se invece vuoi cambiare un elemento, assegna quel valore all'indice  ES. lst[5] = 'Python'
-clear : serve a cancellare gli elementi
-values : fa un elenco dei valori del dizzionario
-range() : genera un'intervallo di interi
-break : serrve a chiudere cicli while o if
-continue : serve a chiudere dei cicli
-parametri formali sono i parametri messi
-parametri attuali i parametri usati
-
-
-
-
 pandas : Pandas è uno strumento di analisi e manipolazione dei dati open source veloce, potente, flessibile e facile da usare, costruito sulla base del linguaggio di programmazione Python.
 Quando si lavora con dati tabulari o strutturati (come tabelle SQL, fogli Excel, ...):
 
