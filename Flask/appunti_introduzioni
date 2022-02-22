@@ -1,0 +1,8 @@
+cos'è un server web? è un programma che e un server cioè sempre ativvo 24/24 che acetta richieste da parte dei client che sono acccesi quando serve all'utente. attraverso i 
+protocoli usati sono http non e protetto e https e protetto attraverso questo protocloo il client comunicca con il servere
+esempio di client e un browser(sfogliare) come: chrome, FireFox
+un'altro esmpio è un server web come: apache,nginx, (node.js, flask)--> piu personalizzabile rispetto ai primi due node.js scritto con JavaScript e Flask scritto per lo più con python
+html e sull'hard disk di un server web.quando si entra in un sito web visualiziamo le cose prese da HTML
+HTML Sigla di hypertext markup language cioe : linguaggio a marcatori per i hypertext
+HTTP Sigla di hypertext transfer protocol
+iper testi e la possiblita di avere dei link nel testo in html e a(ancora)
